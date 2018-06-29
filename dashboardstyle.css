@@ -1,0 +1,96 @@
+.background{
+	background-image: url(Images/dashboardback.jpg);
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	z-index: -1;
+	top: 0;
+	left: 0;
+}
+
+.searchoption{
+	padding: 30px;
+	font-family: Helvetica Neue, Helvetica," sans-serif";
+	color:black;
+	font-weight: 300;
+	font-size: 150%;
+	font:oblique;
+	letter-spacing: 3px;
+	text-align: center;
+}
+
+#search{
+	font-size: 150%;
+	font-family: Helvetica Neue, Helvetica," sans-serif";
+}
+
+p1{
+	background-color: rgba(0,0,0,0.4);
+	padding: 14px 20px 14px 20px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	display: inline-block;
+}
+
+.box{
+	display: inline-block;
+	padding: 25px;
+	font-family: Helvetica Neue, Helvetica," sans-serif";
+	background-color: rgba(0,0,0,0.4);
+	width: 150px;
+	height: auto;
+	border-left: none;
+	text-align: center;
+}
+
+.sub1{
+	padding:10px 15px;
+	color: white;
+	border: none;
+	font-family: Helvetica Neue, Helvetica," sans-serif";
+	background-color: rgba(0,0,0,0.3);
+}
+
+.sub1:hover{
+	background-color: rgba(0,0,0,0.6);
+}
+
+.sub2{
+	padding: 25px;
+	color: white;
+	display: inline-block;
+	border: none;
+	text-align: center;
+	height: auto;
+	font-family: Helvetica Neue, Helvetica," sans-serif";
+	font-size: 100%;
+	background-color: rgba(0,0,0,0.4);
+}
+
+.sub2:hover{
+	background-color: rgba(0,0,0,0.7);
+}
+table,th,tr,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 10px;
+	text-align: center;
+}
+
+#notify{
+	width: 40px;
+	height: 60px;
+	top: 50%;
+	font-family: Helvetica Neue, Helvetica," sans-serif";
+	color: white;
+	font-size: 30px;
+	border-top-left-radius: 25px;
+	
+	border-bottom-left-radius: 25px;
+	border: 2px solid rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.4);
+}
+
+.hov:hover{
+	background-color: rgba(0,0,0,0.3);
+	color: white;
+}
