@@ -1,0 +1,106 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Arjon Das <Arjon@Arjons-MacBook-Pro.local>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .DS_Store
+#	new file:   Images/.DS_Store
+#	new file:   Images/1.jpg
+#	new file:   Images/2.jpg
+#	new file:   Images/3.jpg
+#	new file:   Images/4.jpg
+#	new file:   Images/5.jpg
+#	new file:   Images/6.jpg
+#	new file:   Images/_notes/.DS_Store
+#	new file:   Images/_notes/1.jpg
+#	new file:   Images/_notes/2.jpg
+#	new file:   Images/_notes/3.jpg
+#	new file:   Images/_notes/dwsync.xml
+#	new file:   Images/carentry.jpg
+#	new file:   Images/dashboardback.jpg
+#	new file:   Images/mgr1.jpg
+#	new file:   Images/mgr2.jpg
+#	new file:   _notes/dwsync.xml
+#	new file:   bookacar.php
+#	new file:   bookedcarinfo.php
+#	new file:   calculatefare.php
+#	new file:   calculator.php
+#	new file:   carcat.php
+#	new file:   cardetails.php
+#	new file:   carentry.php
+#	new file:   clear.php
+#	new file:   clear2.php
+#	new file:   confirmno.php
+#	new file:   confirmyes.php
+#	new file:   contact.php
+#	new file:   css/.DS_Store
+#	new file:   css/_notes/dwsync.xml
+#	new file:   css/base.css
+#	new file:   css/demo.css
+#	new file:   css/downnav.css
+#	new file:   css/fonts/BebasNeue-webfont.eot
+#	new file:   css/fonts/BebasNeue-webfont.svg
+#	new file:   css/fonts/BebasNeue-webfont.ttf
+#	new file:   css/fonts/BebasNeue-webfont.woff
+#	new file:   css/fonts/Dharma Type Font License.txt
+#	new file:   css/fonts/_notes/dwsync.xml
+#	new file:   css/managersign.css
+#	new file:   css/mgrdash.css
+#	new file:   css/signin.css
+#	new file:   css/signup.css
+#	new file:   css/style1.css
+#	new file:   css/style2.css
+#	new file:   css/style3.css
+#	new file:   css/style4.css
+#	new file:   css/styles.css
+#	new file:   dashboard.php
+#	new file:   dashboardstyle.css
+#	new file:   dashbooking.php
+#	new file:   dashprocess.php
+#	new file:   datenter.php
+#	new file:   dbcarentry.php
+#	new file:   dbconnect.php
+#	new file:   dbdriverentry.php
+#	new file:   dbentry.php
+#	new file:   discount.php
+#	new file:   downnav.php
+#	new file:   driverlist.php
+#	new file:   driversetup.php
+#	new file:   easyRide.js
+#	new file:   fareentry.php
+#	new file:   features.php
+#	new file:   finalsummary.php
+#	new file:   getuser.php
+#	new file:   historysetting.php
+#	new file:   hoursetup.php
+#	new file:   index.php
+#	new file:   jQuery.js
+#	new file:   jQuery2.js
+#	new file:   jQuerystyle.css
+#	new file:   managersignin.php
+#	new file:   managersignup.php
+#	new file:   mgrdashboard.php
+#	new file:   mgrsignout.php
+#	new file:   modernizr.js
+#	new file:   noticeboard.php
+#	new file:   notifyuser.php
+#	new file:   req_dbentry.php
+#	new file:   rightnav.php
+#	new file:   searchresult.php
+#	new file:   signin.php
+#	new file:   signout.php
+#	new file:   signup.php
+#	new file:   specialprice.php
+#	new file:   test.php
+#	new file:   test2.php
+#	new file:   username.php
+#	new file:   usernav.php
+#	new file:   verifymanager.php
+#	new file:   verifysignin.php
+
