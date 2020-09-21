@@ -5,3 +5,10 @@ Easyride is a database project for renting cars in a particular area, facilitati
 1. Install and setup MySQL database server.
 2. It is best to serve the files using Apache server.
 3. Just dump the files inside htdocs and you are good to go.
+
+# Model Diagrams
+### ER Diagram
+![ER Diagram](/Images/er_diagram.jpg?raw=true "ER Diagram for easyride Database")
+--
+### Relational Mapping
+![Relational Mapping](/Images/final_mapping.jpg?raw=true "Relational Mapping")
